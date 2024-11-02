@@ -1,0 +1,16 @@
+# Exclude YOLOv5 model file
+Image_Detection/yolov5s.pt
+
+# Exclude virtual environment
+venv/
+
+# Exclude Jupyter Notebook checkpoints
+*.ipynb_checkpoints/
+
+# Exclude large model files like YOLOv5
+Image_Detection/yolov5s.pt
+
+# Exclude Python cache files
+__pycache__/
+*.pyc
+
